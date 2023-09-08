@@ -1,0 +1,15 @@
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\bin\Debug\net6.0\homeworke.exe
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\bin\Debug\net6.0\homeworke.deps.json
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\bin\Debug\net6.0\homeworke.runtimeconfig.json
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\bin\Debug\net6.0\homeworke.dll
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\bin\Debug\net6.0\homeworke.pdb
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.csproj.AssemblyReference.cache
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.AssemblyInfoInputs.cache
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.AssemblyInfo.cs
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.csproj.CoreCompileInputs.cache
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.dll
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\refint\homeworke.dll
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.pdb
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\homeworke.genruntimeconfig.cache
+C:\Users\Sun4ez12\Desktop\homeworkC# 2\homeworke\obj\Debug\net6.0\ref\homeworke.dll
